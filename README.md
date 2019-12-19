@@ -45,6 +45,7 @@ Windows 10 + Macos Catalina 10.15.2 双系统
 
 3.FaceTime和iMessage 需要填入三码 参考 https://github.com/bavariancake/XPS9570-macOS
 
+4.睡眠后，耳机会失效，需要重启解决。
 
 ## 安装适配过程中遇到的问题（已解决）
 1. 开机启动慢，进入系统后网卡加载大致需要2-3分钟，并且wifi无响应
