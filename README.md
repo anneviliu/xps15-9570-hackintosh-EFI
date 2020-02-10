@@ -1,5 +1,5 @@
 # xps15-9570-hackintosh-EFI
-自用xps15 9570 4k版 EFI, 10.15.2 Catalina 可用
+自用xps15 9570 4k版 EFI, 10.15.3 Catalina 可用
 
 ## 配置详情
 xps15 9570
@@ -58,4 +58,5 @@ Windows 10 + Macos Catalina 10.15.2 双系统
 3. 键盘`CapsLock`键灯异常，看似无法控制。
 解决方案：系统偏好设置--> 键盘-->输入法-->去除使用大写锁定键切换'ABC'输入模式框 即可解决
 
-
+## 更新
+2020.2.9 更新最新版 Catalina 10.15.3 EFI + Clover 5103
